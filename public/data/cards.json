@@ -1,0 +1,488 @@
+[
+  {
+    "id": 1,
+    "name": "Carta do Dragão",
+    "image": "/images/1.jpg",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "name": "Carta da Fênix",
+    "image": "/images/2.jpg",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "name": "Carta do Guerreiro",
+    "image": "/images/3.jpg",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "name": "Carta do Mago",
+    "image": "/images/4.jpg",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "name": "Carta do Arqueiro",
+    "image": "/images/5.jpg",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "name": "Carta do Cavaleiro",
+    "image": "/images/6.jpg",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "name": "Carta da Aranha",
+    "image": "/images/7.jpg",
+    "description": ""
+  },
+  {
+    "id": 8,
+    "name": "Carta da Sereia",
+    "image": "/images/8.jpg",
+    "description": ""
+  },
+  {
+    "id": 9,
+    "name": "Carta do Lobo",
+    "image": "/images/9.jpg",
+    "description": ""
+  },
+  {
+    "id": 10,
+    "name": "Carta do Espectro",
+    "image": "/images/10.jpg",
+    "description": ""
+  },
+  {
+    "id": 11,
+    "name": "Carta do Dragão de Gelo",
+    "image": "/images/11.jpg",
+    "description": ""
+  },
+  {
+    "id": 12,
+    "name": "Carta do Elemental de Fogo",
+    "image": "/images/12.jpg",
+    "description": ""
+  },
+  {
+    "id": 13,
+    "name": "Carta da Lâmina",
+    "image": "/images/13.jpg",
+    "description": ""
+  },
+  {
+    "id": 14,
+    "name": "Carta do Tigre",
+    "image": "/images/14.jpg",
+    "description": ""
+  },
+  {
+    "id": 15,
+    "name": "Carta da Feiticeira",
+    "image": "/images/15.jpg",
+    "description": ""
+  },
+  {
+    "id": 16,
+    "name": "Carta do Fantasma",
+    "image": "/images/16.jpg",
+    "description": ""
+  },
+  {
+    "id": 17,
+    "name": "Carta do Golem",
+    "image": "/images/17.jpg",
+    "description": ""
+  },
+  {
+    "id": 18,
+    "name": "Carta da Serpente",
+    "image": "/images/18.jpg",
+    "description": ""
+  },
+  {
+    "id": 19,
+    "name": "Carta do Cavaleiro Negro",
+    "image": "/images/19.jpg",
+    "description": ""
+  },
+  {
+    "id": 20,
+    "name": "Carta da Fada",
+    "image": "/images/20.jpg",
+    "description": ""
+  },
+  {
+    "id": 21,
+    "name": "Carta do Demônio",
+    "image": "/images/21.jpg",
+    "description": ""
+  },
+  {
+    "id": 22,
+    "name": "Carta do Dragão Negro",
+    "image": "/images/22.jpg",
+    "description": ""
+  },
+  {
+    "id": 23,
+    "name": "Carta do Lobisomem",
+    "image": "/images/23.jpg",
+    "description": ""
+  },
+  {
+    "id": 24,
+    "name": "Carta do Paladino",
+    "image": "/images/24.jpg",
+    "description": ""
+  },
+  {
+    "id": 25,
+    "name": "Carta da Manticora",
+    "image": "/images/25.jpg",
+    "description": ""
+  },
+  {
+    "id": 26,
+    "name": "Carta do Gato Fantasma",
+    "image": "/images/26.jpg",
+    "description": ""
+  },
+  {
+    "id": 27,
+    "name": "Carta do Kraken",
+    "image": "/images/27.jpg",
+    "description": ""
+  },
+  {
+    "id": 28,
+    "name": "Carta do Falcão",
+    "image": "/images/28.jpg",
+    "description": ""
+  },
+  {
+    "id": 29,
+    "name": "Carta do Beholder",
+    "image": "/images/29.jpg",
+    "description": ""
+  },
+  {
+    "id": 30,
+    "name": "Carta do Minotauro",
+    "image": "/images/30.jpg",
+    "description": ""
+  },
+  {
+    "id": 31,
+    "name": "Carta do Yeti",
+    "image": "/images/31.jpg",
+    "description": ""
+  },
+  {
+    "id": 32,
+    "name": "Carta do Vampiro",
+    "image": "/images/32.jpg",
+    "description": ""
+  },
+  {
+    "id": 33,
+    "name": "Carta do Lich",
+    "image": "/images/33.jpg",
+    "description": ""
+  },
+  {
+    "id": 34,
+    "name": "Carta do Falcão de Fogo",
+    "image": "/images/34.jpg",
+    "description": ""
+  },
+  {
+    "id": 35,
+    "name": "Carta da Nuvem",
+    "image": "/images/35.jpg",
+    "description": ""
+  },
+  {
+    "id": 36,
+    "name": "Carta do Leviatã",
+    "image": "/images/36.jpg",
+    "description": ""
+  },
+  {
+    "id": 37,
+    "name": "Carta da Banshee",
+    "image": "/images/37.jpg",
+    "description": ""
+  },
+  {
+    "id": 38,
+    "name": "Carta do Gárgula",
+    "image": "/images/38.jpg",
+    "description": ""
+  },
+  {
+    "id": 39,
+    "name": "Carta da Medusa",
+    "image": "/images/39.jpg",
+    "description": ""
+  },
+  {
+    "id": 40,
+    "name": "Carta da Caverna",
+    "image": "/images/40.jpg",
+    "description": ""
+  },
+  {
+    "id": 41,
+    "name": "Carta da Árvore da Vida",
+    "image": "/images/41.jpg",
+    "description": ""
+  },
+  {
+    "id": 42,
+    "name": "Carta do Basilisco",
+    "image": "/images/42.jpg",
+    "description": ""
+  },
+  {
+    "id": 43,
+    "name": "Carta do Falcão Sombrio",
+    "image": "/images/43.jpg",
+    "description": ""
+  },
+  {
+    "id": 44,
+    "name": "Carta do Tigre Branco",
+    "image": "/images/44.jpg",
+    "description": ""
+  },
+  {
+    "id": 45,
+    "name": "Carta da Garganta do Inferno",
+    "image": "/images/45.jpg",
+    "description": ""
+  },
+  {
+    "id": 46,
+    "name": "Carta do Dragão de Águia",
+    "image": "/images/46.jpg",
+    "description": ""
+  },
+  {
+    "id": 47,
+    "name": "Carta da Gárgula de Ferro",
+    "image": "/images/47.jpg",
+    "description": ""
+  },
+  {
+    "id": 48,
+    "name": "Carta da Águia Real",
+    "image": "/images/48.jpg",
+    "description": ""
+  },
+  {
+    "id": 49,
+    "name": "Carta do Andarilho das Sombras",
+    "image": "/images/49.jpg",
+    "description": ""
+  },
+  {
+    "id": 50,
+    "name": "Carta do Tiranossauro",
+    "image": "/images/50.jpg",
+    "description": ""
+  },
+  {
+    "id": 51,
+    "name": "Carta da Grifo",
+    "image": "/images/51.jpg",
+    "description": ""
+  },
+  {
+    "id": 52,
+    "name": "Carta do Cervo",
+    "image": "/images/52.jpg",
+    "description": ""
+  },
+  {
+    "id": 53,
+    "name": "Carta da Salamandra",
+    "image": "/images/53.jpg",
+    "description": ""
+  },
+  {
+    "id": 54,
+    "name": "Carta do Gavião",
+    "image": "/images/54.jpg",
+    "description": ""
+  },
+  {
+    "id": 55,
+    "name": "Carta da Rainha Abissal",
+    "image": "/images/55.jpg",
+    "description": ""
+  },
+  {
+    "id": 56,
+    "name": "Carta do Mago Sombrio",
+    "image": "/images/56.jpg",
+    "description": ""
+  },
+  {
+    "id": 57,
+    "name": "Carta da Fênix Negra",
+    "image": "/images/57.jpg",
+    "description": ""
+  },
+  {
+    "id": 58,
+    "name": "Carta do Serpente de Jade",
+    "image": "/images/58.jpg",
+    "description": ""
+  },
+  {
+    "id": 59,
+    "name": "Carta do Dragão Dourado",
+    "image": "/images/59.jpg",
+    "description": ""
+  },
+  {
+    "id": 60,
+    "name": "Carta do Guardião",
+    "image": "/images/60.jpg",
+    "description": ""
+  },
+  {
+    "id": 61,
+    "name": "Carta do Guerreiro Fantasma",
+    "image": "/images/61.jpg",
+    "description": ""
+  },
+  {
+    "id": 62,
+    "name": "Carta da Aranha Gigante",
+    "image": "/images/62.jpg",
+    "description": ""
+  },
+  {
+    "id": 63,
+    "name": "Carta do Dragão do Caos",
+    "image": "/images/63.jpg",
+    "description": ""
+  },
+  {
+    "id": 64,
+    "name": "Carta do Leão Dourado",
+    "image": "/images/64.jpg",
+    "description": ""
+  },
+  {
+    "id": 65,
+    "name": "Carta do Lobo das Sombras",
+    "image": "/images/65.jpg",
+    "description": ""
+  },
+  {
+    "id": 66,
+    "name": "Carta do Unicórnio",
+    "image": "/images/66.jpg",
+    "description": ""
+  },
+  {
+    "id": 67,
+    "name": "Carta do Elfo",
+    "image": "/images/67.jpg",
+    "description": ""
+  },
+  {
+    "id": 68,
+    "name": "Carta da Águia Imperial",
+    "image": "/images/68.jpg",
+    "description": ""
+  },
+  {
+    "id": 69,
+    "name": "Carta do Dragão Flamejante",
+    "image": "/images/69.jpg",
+    "description": ""
+  },
+  {
+    "id": 70,
+    "name": "Carta da Quimera",
+    "image": "/images/70.jpg",
+    "description": ""
+  },
+  {
+    "id": 71,
+    "name": "Carta da Tempestade",
+    "image": "/images/71.jpg",
+    "description": ""
+  },
+  {
+    "id": 72,
+    "name": "Carta do Kraken Dourado",
+    "image": "/images/72.jpg",
+    "description": ""
+  },
+  {
+    "id": 73,
+    "name": "Carta do Dragão Azul",
+    "image": "/images/73.jpg",
+    "description": ""
+  },
+  {
+    "id": 74,
+    "name": "Carta da Fada da Lua",
+    "image": "/images/74.jpg",
+    "description": ""
+  },
+  {
+    "id": 75,
+    "name": "Carta do Falcão da Tempestade",
+    "image": "/images/75.jpg",
+    "description": ""
+  },
+  {
+    "id": 76,
+    "name": "Carta do Fantasma do Vento",
+    "image": "/images/76.jpg",
+    "description": ""
+  },
+  {
+    "id": 77,
+    "name": "Carta do Dragão Ancestral",
+    "image": "/images/77.jpg",
+    "description": ""
+  },
+  {
+    "id": 78,
+    "name": "Carta da Esfinge",
+    "image": "/images/78.jpg",
+    "description": ""
+  },
+  {
+    "id": 79,
+    "name": "Carta do Golem de Cristal",
+    "image": "/images/79.jpg",
+    "description": ""
+  },
+  {
+    "id": 80,
+    "name": "Carta da Ilha Perdida",
+    "image": "/images/80.jpg",
+    "description": ""
+  },
+  {
+    "id": 81,
+    "name": "Carta do Dragão Celestial",
+    "image": "/images/81.jpg",
+    "description": ""
+  }
+]
